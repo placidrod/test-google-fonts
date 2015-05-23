@@ -1,0 +1,39 @@
+.container {
+	max-width: 750px;
+}
+.margin-bottom-20 {
+	margin-bottom: 20px;
+}
+.title {
+	font-size: 1.5em;
+	margin-top: 10px;
+}
+hr {
+	margin-top: 0px;
+}
+.text-holder {
+	margin-bottom: 60px;
+}
+#user-text{ 
+	font-size: 48px;
+  height:200px; 
+  min-height:200px;  
+  max-height:200px;
+  border: none;
+  box-shadow: none;
+}
+.font-size-output {
+	display: inline-block;
+}
+.italic {
+	font-style: italic;
+}
+.output-div {
+	display: none;
+}
+
+/* Color picker */
+
+.full-spectrum .sp-palette {
+max-width: 200px;
+}
