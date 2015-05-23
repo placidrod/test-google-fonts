@@ -114,9 +114,6 @@ class Font
 
 $font = new font();
 
-$font->saveFonts();
-
-
 if(isset($_GET['saveFontFile'])) {
 	if($font->saveFonts()) {
 		echo "Fonts Loaded";
